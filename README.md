@@ -48,6 +48,8 @@ This repository README template is meant to create a general outline to provide 
 
 ### Getting Started
 
+[Add details of how to begin and run the repository.]
+
 1.  Ex: Installing local dependencies
 2.  Ex: Using local secrets
 3.  ...
@@ -55,15 +57,25 @@ This repository README template is meant to create a general outline to provide 
 
 ### Testing
 
+[Add steps on how to run/build tests.]
+
 ### Debugging
+
+[Add steps on how to debug common issues.]
 
 ### Linting
 
+[Add steps on how and when to run lint.]
+
 ### Support
+
+[Add contact and information for support.]
 
 - Ex: Slack Channel
 - Ex: Team to contact
 
 ### Owners
+
+[Add the names of teams or indivduals who own the repository.]
 
 - Team or individual list of owners
