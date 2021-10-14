@@ -1,43 +1,65 @@
-This repository template is meant to create a general outline to provide consistency amongst newly created repos and hopefully provide a guide for exisiting repos to adopt the template pattern. When your README is ready, please delete this paragraph.
+This repository README template is meant to create a general outline to provide consistency amongst newly created repos and hopefully provide a guide for exisiting repos to adopt the template pattern. When your README.md file is ready, please delete this paragraph.
 
 # [Title]
 
 [Add repository title above]
 
-# Table of Contents
+### Table of Contents
 
 - [Architecture](#architecture)
+- [Code Organization](#code-organization)
+- [Current Tools](#current-tools)
+- [Configurations](#configurations)
+- [Getting Started](#getting-started)
+- [Testing](#testing)
+- [Debugging](#debugging)
+- [Linting](#linting)
+- [Support](#support)
 
 [Link additional categories to table of contents as the respository grows.]
 
-# Architecture
+#### Architecture
 
 [Add a description of the repositirories architecture here. ]
 
-# Code Organization
+#### Code Organization
 
 [Add a description of how and why the cord is organzied here.]
 
-# Current Tools
+#### Current Tools
 
 [List out the tools needed here]
 
-- Tool 1
-- Tool 2
-- Tool 3
+- Ex: Tool 1
+- Ex: Tool 2
+- Ex: Tool 3
 
-# Configurations [Add details of what configuration are needed]
+#### Configurations
 
-- AWS assume role
-- Config1
-- Config2
+[Add details of what configuration are needed]
 
-# Getting Started
+- Ex: AWS assume role
+- Ex: Config1
+- Ex: Config2
 
-# Testing
+#### Getting Started
 
-# Debugging
+1.  Ex: Installing local dependencies
+2.  Ex: Using local secrets
+3.  ...
+4.  ...
 
-# Linting
+#### Testing
 
-# Support
+#### Debugging
+
+#### Linting
+
+#### Support
+
+- Ex: Slack Channel
+- Ex: Team to contact
+
+#### Owners
+
+- Team or individual list of owners
