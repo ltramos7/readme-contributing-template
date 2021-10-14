@@ -1,4 +1,4 @@
-This repository README template is meant to create a general outline to provide consistency amongst newly created repos and hopefully provide a guide for exisiting repos to adopt the template pattern. When your README.md file is ready, please delete this paragraph.
+This repository README template is meant to create a general outline to provide consistency amongst newly created repos and hopefully provide a guide for exisiting repos to adopt the template pattern. When your README.md file is ready, please delete this paragraph, as well as explanations in brackets.
 
 # [Title]
 
@@ -20,7 +20,7 @@ This repository README template is meant to create a general outline to provide 
 
 #### Architecture
 
-[Add a description of the repositirories architecture here. ]
+[Add a description of the repositirories architecture here.]
 
 #### Code Organization
 
