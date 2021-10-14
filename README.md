@@ -18,15 +18,19 @@ This repository README template is meant to create a general outline to provide 
 
 [Link additional categories to table of contents as the respository grows.]
 
-#### Architecture
+### Purpose & Description
+
+[Add the purpose of the repositories and ]
+
+### Architecture
 
 [Add a description of the repositirories architecture here.]
 
-#### Code Organization
+### Code Organization
 
 [Add a description of how and why the cord is organzied here.]
 
-#### Current Tools
+### Current Tools
 
 [List out the tools needed here]
 
@@ -34,7 +38,7 @@ This repository README template is meant to create a general outline to provide 
 - Ex: Tool 2
 - Ex: Tool 3
 
-#### Configurations
+### Configurations
 
 [Add details of what configuration are needed]
 
@@ -42,24 +46,24 @@ This repository README template is meant to create a general outline to provide 
 - Ex: Config1
 - Ex: Config2
 
-#### Getting Started
+### Getting Started
 
 1.  Ex: Installing local dependencies
 2.  Ex: Using local secrets
 3.  ...
 4.  ...
 
-#### Testing
+### Testing
 
-#### Debugging
+### Debugging
 
-#### Linting
+### Linting
 
-#### Support
+### Support
 
 - Ex: Slack Channel
 - Ex: Team to contact
 
-#### Owners
+### Owners
 
 - Team or individual list of owners
